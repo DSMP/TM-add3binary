@@ -1,0 +1,10 @@
+C:\GitProjects\zad3LM\zad3LM\bin\Debug\zad3LM.exe.config
+C:\GitProjects\zad3LM\zad3LM\bin\Debug\zad3LM.exe
+C:\GitProjects\zad3LM\zad3LM\bin\Debug\zad3LM.pdb
+C:\GitProjects\zad3LM\zad3LM\obj\Debug\zad3LM.csprojResolveAssemblyReference.cache
+C:\GitProjects\zad3LM\zad3LM\obj\Debug\zad3LM.Form1.resources
+C:\GitProjects\zad3LM\zad3LM\obj\Debug\zad3LM.Properties.Resources.resources
+C:\GitProjects\zad3LM\zad3LM\obj\Debug\zad3LM.csproj.GenerateResource.cache
+C:\GitProjects\zad3LM\zad3LM\obj\Debug\zad3LM.csproj.CoreCompileInputs.cache
+C:\GitProjects\zad3LM\zad3LM\obj\Debug\zad3LM.exe
+C:\GitProjects\zad3LM\zad3LM\obj\Debug\zad3LM.pdb

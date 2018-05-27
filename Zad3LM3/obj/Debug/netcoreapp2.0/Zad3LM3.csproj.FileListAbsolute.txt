@@ -1,0 +1,11 @@
+C:\GitProjects\zad3LM\Zad3LM3\bin\Debug\netcoreapp2.0\Zad3LM3.deps.json
+C:\GitProjects\zad3LM\Zad3LM3\bin\Debug\netcoreapp2.0\Zad3LM3.runtimeconfig.json
+C:\GitProjects\zad3LM\Zad3LM3\bin\Debug\netcoreapp2.0\Zad3LM3.runtimeconfig.dev.json
+C:\GitProjects\zad3LM\Zad3LM3\bin\Debug\netcoreapp2.0\Zad3LM3.dll
+C:\GitProjects\zad3LM\Zad3LM3\bin\Debug\netcoreapp2.0\Zad3LM3.pdb
+C:\GitProjects\zad3LM\Zad3LM3\obj\Debug\netcoreapp2.0\Zad3LM3.csprojResolveAssemblyReference.cache
+C:\GitProjects\zad3LM\Zad3LM3\obj\Debug\netcoreapp2.0\Zad3LM3.csproj.CoreCompileInputs.cache
+C:\GitProjects\zad3LM\Zad3LM3\obj\Debug\netcoreapp2.0\Zad3LM3.AssemblyInfoInputs.cache
+C:\GitProjects\zad3LM\Zad3LM3\obj\Debug\netcoreapp2.0\Zad3LM3.AssemblyInfo.cs
+C:\GitProjects\zad3LM\Zad3LM3\obj\Debug\netcoreapp2.0\Zad3LM3.dll
+C:\GitProjects\zad3LM\Zad3LM3\obj\Debug\netcoreapp2.0\Zad3LM3.pdb
